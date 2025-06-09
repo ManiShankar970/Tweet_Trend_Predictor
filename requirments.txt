@@ -1,8 +1,9 @@
+joblib
 streamlit
 pandas
 scikit-learn
 textblob
 matplotlib
 seaborn
-joblib
+
 
